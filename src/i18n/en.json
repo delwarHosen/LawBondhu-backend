@@ -1,0 +1,57 @@
+
+{
+  "lawyerDirectory": {
+    "navigation": "Law Helper navigation",
+    "directory": "Find a lawyer",
+    "description": "Explore lawyers by specialty and location. All profiles, reviews and fees are fictional demonstration data.",
+    "home": "Home",
+    "search": "Search by name",
+    "searchPlaceholder": "Enter lawyer name",
+    "practice": "Practice area",
+    "location": "Location",
+    "rating": "Minimum rating",
+    "sort": "Sort by",
+    "all": "All",
+    "ratingSort": "Highest rated",
+    "experienceSort": "Most experienced",
+    "feeLow": "Lowest fee first",
+    "feeHigh": "Highest fee first",
+    "nameSort": "Name A–Z",
+    "lawyers": "lawyers",
+    "years": "years of experience",
+    "reviews": "reviews",
+    "fee": "Consultation fee",
+    "profile": "View profile",
+    "consult": "Consult",
+    "more": "Load more",
+    "reset": "Reset filters",
+    "empty": "No lawyers found",
+    "emptyDetail": "Try a different name or clear your filters.",
+    "demo": "Demo only: no consultation was booked.",
+    "close": "Close",
+    "results": "Search results",
+    "filters": "Filters",
+    "perSession": "per session",
+    "allRatings": "All ratings",
+    "aboutLawyer": "About the lawyer",
+    "education": "Education",
+    "specialization": "Practice area",
+    "backToDirectory": "Back to lawyer directory",
+    "notFound": "Lawyer not found",
+    "notFoundDetail": "The requested lawyer profile does not exist.",
+    "practiceAreas": {
+      "family": "Family law",
+      "criminal": "Criminal law",
+      "property": "Property law",
+      "corporate": "Corporate law",
+      "labor": "Labour law",
+      "civil": "Civil law"
+    },
+    "cities": {
+      "dhaka": "Dhaka",
+      "chattogram": "Chattogram",
+      "sylhet": "Sylhet",
+      "rajshahi": "Rajshahi"
+    }
+  }
+}
